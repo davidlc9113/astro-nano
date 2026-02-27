@@ -92,4 +92,4 @@ reporter: process.env.CI
 
 Finally, an automated test is working truly automatically now. It has a daily scheduled run, which shows test results directly in the job summary and all details in the artifact. It also has a basic code quality check for every commit, which is helpful for later contributions.
 
-[All code is also available in this demo project](../../projects/project-1/).
+[All code is also available in this demo project](https://github.com/davidlc9113/qa-example/tree/v1).
